@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='exchange_rates',
-    version='1.0.01',
+    version='1.1',
     description='Retrives currency exchange rates from http://api.fixer.io/',
     author='Luke Shiner',
     author_email='luke@lukeshiner.com',
